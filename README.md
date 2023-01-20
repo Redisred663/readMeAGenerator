@@ -21,7 +21,5 @@ The following license which was used:
 None.
 ## Tests
 For the testing process, please use: A varying list, however, mostly sticking to the "npm" commands and the "node" commands.
-## Walkthrough
-A walkthrough video of the application: 
 ## Questions
 If you have any questions about the application, please contact me on GitHub at Redisred663, or to get a more direct contact. please email me at, redalyssa636@gmail.com.
